@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090331193071",
+    "firebase_url": "https://my-project-flutter-a811e.firebaseio.com",
+    "project_id": "my-project-flutter-a811e",
+    "storage_bucket": "my-project-flutter-a811e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090331193071:android:ec694bdb43a3f47fd6b51a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090331193071-p453odmnoql3mtieofran265h1mq4c3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxELo8EuU7rhIH2SLnC08McV9a58jQM1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090331193071-p453odmnoql3mtieofran265h1mq4c3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
